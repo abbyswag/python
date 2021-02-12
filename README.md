@@ -6,7 +6,7 @@ A terminal program for registering appointment, view schedules of differnt docto
 
 # 2. diabetesPredictor
 This program uses three machine learning algorithm for prediction of diabetes acoording to their age, pregenecy status, glucose amount, insulin amount, blood Pressure, etc.
-Names of Algorithms used : 
+Names of Algorithms used :    
 a. Linear Regression  
 b. KNN  
 c. K-Means  
